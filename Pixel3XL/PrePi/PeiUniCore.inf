@@ -100,7 +100,7 @@
   gEmbeddedTokenSpaceGuid.PcdMemoryTypeEfiLoaderData
 
   gPixel3XLTokenSpaceGuid.PcdLcdIfBaseAddress
-  giMXPlatformTokenSpaceGuid.MpParkMailboxBase
+  gSprdPlatformTokenSpaceGuid.MpParkMailboxBase
 
   gArmTokenSpaceGuid.PcdArmArchTimerFreqInHz
 
